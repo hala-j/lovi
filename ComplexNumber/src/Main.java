@@ -15,7 +15,7 @@ public class Main {
 		System.out.println("CN2 + CN3 = " + CN2.add(CN3));
 		System.out.println("CN2 * CN3 = " + CN2.Mult(CN3));
 		System.out.println("CN2 + CN1 = " + CN2.add(CN1));
-		
+		//comment loooooovi
 	}
 
 }
