@@ -6,6 +6,7 @@ public class Main {
 		ComplexNumber CN1 = new ComplexNumber();
 		ComplexNumber CN2 = new ComplexNumber(3);
 		ComplexNumber CN3 = new ComplexNumber(6,-9);
+		//trm trm 
 		
 		System.out.println("CN1 :" + CN1) ;
 		System.out.println("CN2 :" + CN2) ;
