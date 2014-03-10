@@ -3,7 +3,7 @@ public class ComplexNumber {
 	
 	private Integer real ;
 	private Integer img ;
-	
+	int c;
 	public ComplexNumber()
 	{
 		this(0 , 0) ; 
